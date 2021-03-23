@@ -1,0 +1,6 @@
+[submodule "toolbelt"]
+	path = toolbelt
+	url = https://github.com/johndeedly/toolbelt.git
+[submodule "registry"]
+	path = registry
+	url = https://github.com/johndeedly/registry.git
