@@ -5,7 +5,7 @@
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
-The submodule "registry" is licensed under a MIT License. Additional copyright © by [Eric Zimmerman][ericzimmerman].
+The submodule "registry" is licensed under a MIT License, copyright © by [Eric Zimmerman][ericzimmerman].
 
 [ericzimmerman]: https://github.com/EricZimmerman
 [cc-by-nc-sa]: LICENSE
